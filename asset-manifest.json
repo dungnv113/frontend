@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://dungnv113.github.io/frontend/static/css/main.3352675d.css",
-    "main.js": "https://dungnv113.github.io/frontend/static/js/main.a332ecc2.js",
+    "main.js": "https://dungnv113.github.io/frontend/static/js/main.0895a35a.js",
     "static/js/787.28cb0dcd.chunk.js": "https://dungnv113.github.io/frontend/static/js/787.28cb0dcd.chunk.js",
     "static/media/740767.jpg": "https://dungnv113.github.io/frontend/static/media/740767.27089b666ada135c6690.jpg",
     "static/media/logo.svg": "https://dungnv113.github.io/frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "https://dungnv113.github.io/frontend/index.html",
     "main.3352675d.css.map": "https://dungnv113.github.io/frontend/static/css/main.3352675d.css.map",
-    "main.a332ecc2.js.map": "https://dungnv113.github.io/frontend/static/js/main.a332ecc2.js.map",
+    "main.0895a35a.js.map": "https://dungnv113.github.io/frontend/static/js/main.0895a35a.js.map",
     "787.28cb0dcd.chunk.js.map": "https://dungnv113.github.io/frontend/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3352675d.css",
-    "static/js/main.a332ecc2.js"
+    "static/js/main.0895a35a.js"
   ]
 }
